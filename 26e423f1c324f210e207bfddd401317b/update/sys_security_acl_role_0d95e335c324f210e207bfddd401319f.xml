@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-13 16:44:57</sys_created_on>
+        <sys_id>0d95e335c324f210e207bfddd401319f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1845712_traini_0_capability.x_1845712_traini_0.admin</sys_name>
+        <sys_package display_value="Training2" source="x_1845712_traini_0">26e423f1c324f210e207bfddd401317b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training2">26e423f1c324f210e207bfddd401317b</sys_scope>
+        <sys_security_acl display_value="x_1845712_traini_0_capability">cd95e335c324f210e207bfddd401319c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_0d95e335c324f210e207bfddd401319f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-13 16:44:57</sys_updated_on>
+        <sys_user_role display_value="x_1845712_traini_0.admin" name="x_1845712_traini_0.admin">aae423f1c324f210e207bfddd401319b</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

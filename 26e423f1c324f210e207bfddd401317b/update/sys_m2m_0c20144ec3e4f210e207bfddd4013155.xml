@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_m2m">
+    <sys_m2m action="INSERT_OR_UPDATE">
+        <from_table>x_1845712_traini_0_students</from_table>
+        <m2m_from_field>x_1845712_traini_0_students</m2m_from_field>
+        <m2m_from_label>Deliveries</m2m_from_label>
+        <m2m_table>x_1845712_traini_0_m2m_x_1845712_tr_x_1845712_tr</m2m_table>
+        <m2m_to_field>x_1845712_traini_0_delivery</m2m_to_field>
+        <m2m_to_label>Students</m2m_to_label>
+        <sys_class_name>sys_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-13 19:51:43</sys_created_on>
+        <sys_id>0c20144ec3e4f210e207bfddd4013155</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1845712_traini_0_m2m_x_1845712_tr_x_1845712_tr</sys_name>
+        <sys_package display_value="Training2" source="x_1845712_traini_0">26e423f1c324f210e207bfddd401317b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training2">26e423f1c324f210e207bfddd401317b</sys_scope>
+        <sys_update_name>sys_m2m_0c20144ec3e4f210e207bfddd4013155</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-13 19:51:43</sys_updated_on>
+        <to_table>x_1845712_traini_0_delivery</to_table>
+    </sys_m2m>
+</record_update>

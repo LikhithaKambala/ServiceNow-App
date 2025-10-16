@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="24553779c364f210e207bfddd40131d3" label="Delivery" max_length="40" name="x_1845712_traini_0_delivery" type="collection">
+        <element label="Assigned Trainer" max_length="32" name="assigned_trainer" reference="sys_user" reference_qual="javascript:'roles=admin^ORroles=x_1845712_traini_0.trainer'" type="reference" use_reference_qualifier="advanced"/>
+        <element display="true" label="Capability" max_length="32" name="capability" reference="x_1845712_traini_0_capability" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="assigned_trainer"/>
+        </index>
+        <index name="index2">
+            <element name="capability"/>
+        </index>
+    </element>
+</database>

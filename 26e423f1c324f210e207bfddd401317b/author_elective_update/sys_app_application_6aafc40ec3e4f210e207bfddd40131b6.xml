@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Students</name>
+        <order>100</order>
+        <roles>x_1845712_traini_0.students_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-13 19:48:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6aafc40ec3e4f210e207bfddd40131b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Students</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Training2" source="x_1845712_traini_0">26e423f1c324f210e207bfddd401317b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training2">26e423f1c324f210e207bfddd401317b</sys_scope>
+        <sys_update_name>sys_app_application_6aafc40ec3e4f210e207bfddd40131b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-13 19:48:49</sys_updated_on>
+        <title>Students</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Training2">26e423f1c324f210e207bfddd401317b</application>
+        <file_path/>
+        <instance_id>a0299bb6fb892a140c92f633beefdc81</instance_id>
+        <instance_name>dev336725</instance_name>
+        <name>sys_app_application_6aafc40ec3e4f210e207bfddd40131b6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>Students</name><order>100</order><roles>x_1845712_traini_0.students_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-13 19:48:49</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6aafc40ec3e4f210e207bfddd40131b6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Students</sys_name><sys_overrides/><sys_package display_value="Training2" source="x_1845712_traini_0">26e423f1c324f210e207bfddd401317b</sys_package><sys_policy/><sys_scope display_value="Training2">26e423f1c324f210e207bfddd401317b</sys_scope><sys_update_name>sys_app_application_6aafc40ec3e4f210e207bfddd40131b6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-13 19:48:49</sys_updated_on><title>Students</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-705003929</payload_hash>
+        <record_name>Students</record_name>
+        <reverted_from/>
+        <source>a2e423f1c324f210e207bfddd4013180</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-13 19:48:49</sys_created_on>
+        <sys_id>2aafc40ec3e4f210e207bfddd40131ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>199df1e4eb10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-13 19:48:49</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>aeafc40e71e4f210ad59c89709eb35b9</update_guid>
+        <update_guid_history>aeafc40e71e4f210ad59c89709eb35b9:-705003929</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Students">daac381ec3e83210e207bfddd4013135</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-14 17:43:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>974c5a6b10644cc0896b36ea09fd9fa1</sys_id>
+        <sys_metadata>6aafc40ec3e4f210e207bfddd40131b6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Students</sys_name>
+        <sys_package display_value="Training2" source="x_1845712_traini_0">26e423f1c324f210e207bfddd401317b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Training2">26e423f1c324f210e207bfddd401317b</sys_scope>
+        <sys_scope_delete display_value="">87853b25be804c4a9192255256e94ed9</sys_scope_delete>
+        <sys_update_name>sys_app_application_6aafc40ec3e4f210e207bfddd40131b6</sys_update_name>
+        <sys_update_version display_value="sys_app_application_6aafc40ec3e4f210e207bfddd40131b6">2aafc40ec3e4f210e207bfddd40131ba</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-14 17:43:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
