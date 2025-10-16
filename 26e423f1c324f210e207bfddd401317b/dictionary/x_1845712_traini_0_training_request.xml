@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5402b09ec3a83210e207bfddd4013101" extends="task" label="Training Request " max_length="40" name="x_1845712_traini_0_training_request" type="collection">
+        <element label="Delivery" max_length="32" name="new_field_1" reference="x_1845712_traini_0_delivery" type="reference"/>
+        <element label="New Field 2" max_length="32" name="new_field_2" reference="x_1845712_traini_0_delivery" type="reference"/>
+    </element>
+</database>
